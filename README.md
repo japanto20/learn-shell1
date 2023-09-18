@@ -1,1 +1,6 @@
-# learn-shell1
+# learn-shell
+
+Shell Scripting Topics
+
+Start Learning Shell Scripting
+
