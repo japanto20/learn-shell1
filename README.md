@@ -6,4 +6,4 @@ Start Learning Shell Scripting
 
 1. Printing
 2. Comments
-3. 
+3. Variables
