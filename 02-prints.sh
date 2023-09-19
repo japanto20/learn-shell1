@@ -1,1 +1,19 @@
-echo Hello World
+echo Hello World today
+## color syntax
+ # echo -e "\e[COLm Message \e[0m"
+ # echo -e > enable colors from echo command
+ # \e[COLm  > enable a particular color
+ # color codes
+ #Red     31
+ #Green   32
+ #Yellow  33
+ #Blue    34
+ #Magenta 35
+ #Cyan    36
+
+ # \e[0m  > zero code is going to reset the color, meaning if we enable color we need to disable it other wise
+ color will continue
+
+ echo -e "\e[31mHello in Red Color"
+ echo Hello Antony
+ echo How r u doing?
