@@ -9,5 +9,5 @@ echo "Hello, Good Morning, Today date is dynamically displaying as ${DATE}"
 # Arithmetic Substitution
 
 # shellcheck disable=SC1116
-ADD=((2+3))
+ADD=$((2+3))
 echo "Addition of2+3 = ${ADD}"
