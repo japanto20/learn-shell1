@@ -15,5 +15,6 @@ echo Hello World today
  color will continue
 
  echo -e "\e[31mHello in Red Color\e[0m"
- echo Hello Antony
- echo How r u doing?
+ echo -e "\e[32mHello in Green Color\e[0m"
+ echo -e "\e[33mHello in yellow Color\e[0m"
+ echo -e "\e[34mHello in Blue Color\e[0m"
