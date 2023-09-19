@@ -14,6 +14,6 @@ echo Hello World today
  # \e[0m  > zero code is going to reset the color, meaning if we enable color we need to disable it other wise
  color will continue
 
- echo -e "\e[31mHello in Red Color"
+ echo -e "\e[31mHello in Red Color\e[0m"
  echo Hello Antony
  echo How r u doing?
