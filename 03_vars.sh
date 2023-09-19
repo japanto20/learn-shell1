@@ -10,4 +10,4 @@ echo "Hello, Good Morning, Today date is dynamically displaying as ${DATE}"
 
 # shellcheck disable=SC1116
 ADD=$((2+3))
-echo "Addition of2+3 = ${ADD}"
+echo "Addition of 2+3 = ${ADD}"
