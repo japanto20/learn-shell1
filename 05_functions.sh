@@ -5,8 +5,11 @@ xyz() {
   echo second argument - $2
   echo all argument - $*
   echo no of argument - $#
+  echo value of a = $a
+  b=200
 }
 # Main Program
 #call a function
 xyz 123 456
-
+a=120
+echo value of b = $b
